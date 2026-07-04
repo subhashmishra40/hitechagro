@@ -1,2 +1,3 @@
-# hitechagro
-this web site i am making for my machinery produt
+# Hi-Tech Engineering Website
+
+GitHub Pages Ready Website for Chaff Cutter Manufacturer.
